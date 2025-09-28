@@ -46,7 +46,7 @@ $$ |  $$ | $$$$$$$$\ $$$$$$$$\ \$$$$$$  |
   <a href="https://www.linkedin.com/in/alec-brenes-a4801b240/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="mailto:alecke04@gmail.com">
+  <a href="mailto:alecbrenesCS@outlook.com ">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
   </a>
 </p>
