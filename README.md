@@ -40,7 +40,8 @@ $$ |  $$ | $$$$$$$$\ $$$$$$$$\ \$$$$$$  |
 ---
 ###  Projects
 * **[Complete Guitar Method](https://www.completeguitarmethod.com/)** – A comprehensive online platform for learning guitar.
-
+* **[Extending Hierarchical Reasoning Models](https://github.com/shriraj-m/HRM-for-coherence)** -Extending the Hierarchical Reasoning Model (HRM) with a bidirectional
+cross-attention feedback mechanism. 
 
 ---
 
