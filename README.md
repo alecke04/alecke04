@@ -17,7 +17,7 @@ $$ |  $$ | $$$$$$$$\ $$$$$$$$\ \$$$$$$  |
 ### Hi! I'm Alec
 
  **Computer Science student @ Florida Polytechnic University (GPA 3.5)**  
- Concentration in Advanced Topics — Data Structures, Machine Learning, NLP, Databases  
+ Concentration in Artifical Intelligence — Deep Learning, Machine Learning, Natural Language Processing, Data Structures
  Outside of coding, I enjoy soccer and teaching guitar.  
 
 
@@ -36,8 +36,13 @@ $$ |  $$ | $$$$$$$$\ $$$$$$$$\ \$$$$$$  |
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
 
----
 
+---
+###  Projects
+* **[Complete Guitar Method](https://www.completeguitarmethod.com/)** – A comprehensive online platform for learning guitar.
+* *(Add your next cool AI or CS project here!)*
+
+---
 
 ---
 
