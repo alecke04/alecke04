@@ -40,9 +40,7 @@ $$ |  $$ | $$$$$$$$\ $$$$$$$$\ \$$$$$$  |
 ---
 ###  Projects
 * **[Complete Guitar Method](https://www.completeguitarmethod.com/)** – A comprehensive online platform for learning guitar.
-* *(Add your next cool AI or CS project here!)*
 
----
 
 ---
 
