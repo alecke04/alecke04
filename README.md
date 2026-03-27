@@ -43,7 +43,7 @@ $$ |  $$ | $$$$$$$$\ $$$$$$$$\ \$$$$$$  |
 * **[Extending Hierarchical Reasoning Models](https://github.com/shriraj-m/HRM-for-coherence)** - Extending the Hierarchical Reasoning Model (HRM) with a bidirectional
 cross-attention feedback mechanism.
 * **[SmartTrashBin](https://github.com/alecke04/SmartTrashBin)** - Deep learning pipeline for detecting batteries and classifying waste into recyclable/trash categories.
-
+* **[ClassificationCervicalCytology](https://github.com/alecke04/ClassificationCervicalCytology)** - Deep learning pipeline for classifying cervical cell abnormalities in pap smear images to assist in early cancer detection.
 ---
 
 ###   Connect With Me
