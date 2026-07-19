@@ -17,7 +17,7 @@ $$ |  $$ | $$$$$$$$\ $$$$$$$$\ \$$$$$$  |
 ### Hi! I'm Alec
 
  **Computer Science student @ Florida Polytechnic University (GPA 3.5)**  
- Concentration in Artifical Intelligence — Deep Learning, Natural Language Processing, Data Structures <br> 
+ Concentration in Artifical Intelligence — Machine Learning, Deep Learning, Natural Language Processing, and Data Structures <br> 
  Outside of coding, I enjoy soccer and teaching guitar.  
 
 
