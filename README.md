@@ -41,6 +41,7 @@ $$ |  $$ | $$$$$$$$\ $$$$$$$$\ \$$$$$$  |
 ---
 ###  Projects
 * **[San Miguel Bakery](https://sanmiguelbakerypc.com/)** – Production cake ordering system with bilingual requests, private photo uploads, staff quoting, Clover payments and refunds, built with TypeScript, React, Astro, and Cloudflare D1.
+* **[MicroTransit Live Tracker](https://github.com/alecke04/microtransit-frontend)** – Next.js and TypeScript dashboard for live vehicle maps and GPS history, connected through REST and WebSockets to the [FastAPI backend](https://github.com/alecke04/microtransit-api) on Railway with PostgreSQL/PostGIS and Arduino/SIM7000 trackers.
 * **[Complete Guitar Method](https://www.completeguitarmethod.com/)** – A comprehensive online platform for learning guitar.
 * **[Extending Hierarchical Reasoning Models](https://github.com/shriraj-m/HRM-for-coherence)** - Extending the Hierarchical Reasoning Model (HRM) with a bidirectional
 cross-attention feedback mechanism.
