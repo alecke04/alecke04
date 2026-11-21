@@ -40,6 +40,7 @@ $$ |  $$ | $$$$$$$$\ $$$$$$$$\ \$$$$$$  |
 
 ---
 ###  Projects
+* **[San Miguel Bakery](https://sanmiguelbakerypc.com/)** – Production cake ordering system with bilingual requests, private photo uploads, staff quoting, Clover payments and refunds, built with TypeScript, React, Astro, and Cloudflare D1.
 * **[Complete Guitar Method](https://www.completeguitarmethod.com/)** – A comprehensive online platform for learning guitar.
 * **[Extending Hierarchical Reasoning Models](https://github.com/shriraj-m/HRM-for-coherence)** - Extending the Hierarchical Reasoning Model (HRM) with a bidirectional
 cross-attention feedback mechanism.
